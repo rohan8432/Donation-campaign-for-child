@@ -1,0 +1,135 @@
+[
+    {
+      "ID": 1,
+      "Picture": "https://i.ibb.co/JcrdyZp/Education.png",
+      "Title": "Good education",
+      "Category": "Education",
+      "Category_bg_Color": "#ff444a33",
+      "Card_bg_Color": "#ff444a26",
+      "Text_and_Button_bg_Color": "#FF444A",
+      "Description": "The primary goal of a good education donation campaign is to ensure that individuals, communities, or organizations have access to quality education and related resources.",
+      "price": "$230.00"
+    },
+    {
+      "ID": 2,
+      "Picture": "https://i.ibb.co/FzSyM2k/Health.png",
+      "Title": "Clean water for children",
+      "Category": "Health",
+      "Category_bg_Color": "#0052ff33",
+      "Card_bg_Color": "#0052ff26",
+      "Text_and_Button_bg_Color": "#0052FF",
+      "Description": "The primary goal of a health donation campaign is to raise funds and resources to address specific healthcare needs, promote public health, or support medical research.",
+      "Price": "$129.99"
+    },
+    {
+      "ID": 3,
+      "Picture": "https://i.ibb.co/JcrdyZp/Education.png",
+      "Title": "Good education",
+      "Category": "Education",
+      "Category_bg_Color": "#ff444a33",
+      "Card_bg_Color": "#ff444a26",
+      "Text_and_Button_bg_Color": "#FF444A",
+      "Description": "The primary goal of a good education donation campaign is to ensure that individuals, communities, or organizations have access to quality education and related resources.",
+      "price": "$230.00"
+    },
+    {
+      "ID": 4,
+      "Picture": "https://i.ibb.co/FzSyM2k/Health.png",
+      "Title": "Clean water for children",
+      "Category": "Health",
+      "Category_bg_Color": "#0052ff33",
+      "Card_bg_Color": "#0052ff26",
+      "Text_and_Button_bg_Color": "#0052FF",
+      "Description": "The primary goal of a health donation campaign is to raise funds and resources to address specific healthcare needs, promote public health, or support medical research.",
+      "Price": "$129.99"
+    },
+    {
+      "ID": 5,
+      "Picture": "https://i.ibb.co/FXpPVFf/Clothing.png",
+      "Title": "Used Clothing Drive",
+      "Category": "Clothing",
+      "Category_bg_Color": "#79c23f33",
+      "Card_bg_Color": "#79c23f26",
+      "Text_and_Button_bg_Color": "#79C23F",
+      "Description": "The primary goal of a clothing donation campaign is to collect gently used or new clothing items and distribute them to individuals or organizations that can benefit from these donations.",
+      "Price": "$299.99"
+    },
+    {
+      "ID": 6,
+      "Picture": "https://i.ibb.co/FzSyM2k/Health.png",
+      "Title": "Clean water for children",
+      "Category": "Health",
+      "Category_bg_Color": "#0052ff33",
+      "Card_bg_Color": "#0052ff26",
+      "Text_and_Button_bg_Color": "#0052FF",
+      "Description": "The primary goal of a health donation campaign is to raise funds and resources to address specific healthcare needs, promote public health, or support medical research.",
+      "Price": "$129.99"
+    },
+    {
+      "ID": 7,
+      "Picture": "https://i.ibb.co/FXpPVFf/Clothing.png",
+      "Title": "Used Clothing Drive",
+      "Category": "Clothing",
+      "Category_bg_Color": "#79c23f33",
+      "Card_bg_Color": "#79c23f26",
+      "Text_and_Button_bg_Color": "#79C23F",
+      "Description": "The primary goal of a clothing donation campaign is to collect gently used or new clothing items and distribute them to individuals or organizations that can benefit from these donations.",
+      "Price": "$299.99"
+    },
+    {
+      "ID": 8,
+      "Picture": "https://i.ibb.co/yhQqTCz/Food.png",
+      "Title": "Better Food for Everyone",
+      "Category": "Food",
+      "Category_bg_Color": "#f8714733",
+      "Card_bg_Color": "#f8714726",
+      "Text_and_Button_bg_Color": "#F87147",
+      "Description": "The primary goal of a food donation campaign is to collect food donations and distribute them to people who are experiencing hunger or food insecurity.",
+      "Price": "$149.99"
+    },
+    {
+      "ID": 9,
+      "Picture": "https://i.ibb.co/JcrdyZp/Education.png",
+      "Title": "Good education",
+      "Category": "Education",
+      "Category_bg_Color": "#ff444a33",
+      "Card_bg_Color": "#ff444a26",
+      "Text_and_Button_bg_Color": "#FF444A",
+      "Description": "The primary goal of a good education donation campaign is to ensure that individuals, communities, or organizations have access to quality education and related resources.",
+      "price": "$230.00"
+    },
+    {
+      "ID": 10,
+      "Picture": "https://i.ibb.co/yhQqTCz/Food.png",
+      "Title": "Better Food for Everyone",
+      "Category": "Food",
+      "Category_bg_Color": "#f8714733",
+      "Card_bg_Color": "#f8714726",
+      "Text_and_Button_bg_Color": "#F87147",
+      "Description": "The primary goal of a food donation campaign is to collect food donations and distribute them to people who are experiencing hunger or food insecurity.",
+      "Price": "$149.99"
+    },
+    {
+      "ID": 11,
+      "Picture": "https://i.ibb.co/FXpPVFf/Clothing.png",
+      "Title": "Used Clothing Drive",
+      "Category": "Clothing",
+      "Category_bg_Color": "#79c23f33",
+      "Card_bg_Color": "#79c23f26",
+      "Text_and_Button_bg_Color": "#79C23F",
+      "Description": "The primary goal of a clothing donation campaign is to collect gently used or new clothing items and distribute them to individuals or organizations that can benefit from these donations.",
+      "Price": "$299.99"
+    },
+    {
+      "ID": 12,
+      "Picture": "https://i.ibb.co/yhQqTCz/Food.png",
+      "Title": "Better Food for Everyone",
+      "Category": "Food",
+      "Category_bg_Color": "#f8714733",
+      "Card_bg_Color": "#f8714726",
+      "Text_and_Button_bg_Color": "#F87147",
+      "Description": "The primary goal of a food donation campaign is to collect food donations and distribute them to people who are experiencing hunger or food insecurity.",
+      "Price": "$149.99"
+    }
+  ]
+  
