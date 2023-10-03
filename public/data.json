@@ -5,10 +5,11 @@
       "Title": "Good education",
       "Category": "Education",
       "Category_bg_Color": "#ff444a33",
+      "image": "https://i.ibb.co/F0rVYp9/Rectangle-4287-1.png",
       "Card_bg_Color": "#ff444a26",
       "Text_and_Button_bg_Color": "#FF444A",
-      "Description": "The primary goal of a good education donation campaign is to ensure that individuals, communities, or organizations have access to quality education and related resources.",
-      "price": "$230.00"
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "Price": "$230.00"
     },
     {
       "ID": 2,
@@ -16,9 +17,10 @@
       "Title": "Clean water for children",
       "Category": "Health",
       "Category_bg_Color": "#0052ff33",
+      "image": "https://i.ibb.co/NYV57zs/Rectangle-4284.png",
       "Card_bg_Color": "#0052ff26",
       "Text_and_Button_bg_Color": "#0052FF",
-      "Description": "The primary goal of a health donation campaign is to raise funds and resources to address specific healthcare needs, promote public health, or support medical research.",
+      "Description": "The primary goal of a health donation campaign is to raise funds and resources to address specific healthcare needs, promote public health, or support medical research.Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": "$129.99"
     },
     {
@@ -27,10 +29,11 @@
       "Title": "Good education",
       "Category": "Education",
       "Category_bg_Color": "#ff444a33",
+      "image": "https://i.ibb.co/F0rVYp9/Rectangle-4287-1.png",
       "Card_bg_Color": "#ff444a26",
       "Text_and_Button_bg_Color": "#FF444A",
-      "Description": "The primary goal of a good education donation campaign is to ensure that individuals, communities, or organizations have access to quality education and related resources.",
-      "price": "$230.00"
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "Price": "$230.00"
     },
     {
       "ID": 4,
@@ -38,9 +41,10 @@
       "Title": "Clean water for children",
       "Category": "Health",
       "Category_bg_Color": "#0052ff33",
+      "image": "https://i.ibb.co/NYV57zs/Rectangle-4284.png",
       "Card_bg_Color": "#0052ff26",
       "Text_and_Button_bg_Color": "#0052FF",
-      "Description": "The primary goal of a health donation campaign is to raise funds and resources to address specific healthcare needs, promote public health, or support medical research.",
+      "Description": "The primary goal of a health donation campaign is to raise funds and resources to address specific healthcare needs, promote public health, or support medical research.Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": "$129.99"
     },
     {
@@ -48,10 +52,11 @@
       "Picture": "https://i.ibb.co/FXpPVFf/Clothing.png",
       "Title": "Used Clothing Drive",
       "Category": "Clothing",
+      "image": "https://i.ibb.co/GQz5jB9/Rectangle-4287.png",
       "Category_bg_Color": "#79c23f33",
       "Card_bg_Color": "#79c23f26",
       "Text_and_Button_bg_Color": "#79C23F",
-      "Description": "The primary goal of a clothing donation campaign is to collect gently used or new clothing items and distribute them to individuals or organizations that can benefit from these donations.",
+      "Description": "The primary goal of a clothing donation campaign is to collect gently used or new clothing items and distribute them to individuals or organizations that can benefit from these donations.Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": "$299.99"
     },
     {
@@ -60,9 +65,10 @@
       "Title": "Clean water for children",
       "Category": "Health",
       "Category_bg_Color": "#0052ff33",
+      "image": "https://i.ibb.co/NYV57zs/Rectangle-4284.png",
       "Card_bg_Color": "#0052ff26",
       "Text_and_Button_bg_Color": "#0052FF",
-      "Description": "The primary goal of a health donation campaign is to raise funds and resources to address specific healthcare needs, promote public health, or support medical research.",
+      "Description": "The primary goal of a health donation campaign is to raise funds and resources to address specific healthcare needs, promote public health, or support medical research.Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": "$129.99"
     },
     {
@@ -72,8 +78,9 @@
       "Category": "Clothing",
       "Category_bg_Color": "#79c23f33",
       "Card_bg_Color": "#79c23f26",
+      "image": "https://i.ibb.co/GQz5jB9/Rectangle-4287.png",
       "Text_and_Button_bg_Color": "#79C23F",
-      "Description": "The primary goal of a clothing donation campaign is to collect gently used or new clothing items and distribute them to individuals or organizations that can benefit from these donations.",
+      "Description": "The primary goal of a clothing donation campaign is to collect gently used or new clothing items and distribute them to individuals or organizations that can benefit from these donations.Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": "$299.99"
     },
     {
@@ -83,8 +90,9 @@
       "Category": "Food",
       "Category_bg_Color": "#f8714733",
       "Card_bg_Color": "#f8714726",
+      "image": "https://i.ibb.co/D1Hjk1g/Rectangle-4287-2.png",
       "Text_and_Button_bg_Color": "#F87147",
-      "Description": "The primary goal of a food donation campaign is to collect food donations and distribute them to people who are experiencing hunger or food insecurity.",
+      "Description": "The primary goal of a food donation campaign is to collect food donations and distribute them to people who are experiencing hunger or food insecurity.Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": "$149.99"
     },
     {
@@ -93,10 +101,11 @@
       "Title": "Good education",
       "Category": "Education",
       "Category_bg_Color": "#ff444a33",
+      "image": "https://i.ibb.co/F0rVYp9/Rectangle-4287-1.png",
       "Card_bg_Color": "#ff444a26",
       "Text_and_Button_bg_Color": "#FF444A",
-      "Description": "The primary goal of a good education donation campaign is to ensure that individuals, communities, or organizations have access to quality education and related resources.",
-      "price": "$230.00"
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential..",
+      "Price": "$230.00"
     },
     {
       "ID": 10,
@@ -105,8 +114,9 @@
       "Category": "Food",
       "Category_bg_Color": "#f8714733",
       "Card_bg_Color": "#f8714726",
+      "image": "https://i.ibb.co/D1Hjk1g/Rectangle-4287-2.png",
       "Text_and_Button_bg_Color": "#F87147",
-      "Description": "The primary goal of a food donation campaign is to collect food donations and distribute them to people who are experiencing hunger or food insecurity.",
+      "Description": "The primary goal of a food donation campaign is to collect food donations and distribute them to people who are experiencing hunger or food insecurity.Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": "$149.99"
     },
     {
@@ -116,8 +126,9 @@
       "Category": "Clothing",
       "Category_bg_Color": "#79c23f33",
       "Card_bg_Color": "#79c23f26",
+      "image": "https://i.ibb.co/GQz5jB9/Rectangle-4287.png",
       "Text_and_Button_bg_Color": "#79C23F",
-      "Description": "The primary goal of a clothing donation campaign is to collect gently used or new clothing items and distribute them to individuals or organizations that can benefit from these donations.",
+      "Description": "The primary goal of a clothing donation campaign is to collect gently used or new clothing items and distribute them to individuals or organizations that can benefit from these donations.Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": "$299.99"
     },
     {
@@ -126,9 +137,10 @@
       "Title": "Better Food for Everyone",
       "Category": "Food",
       "Category_bg_Color": "#f8714733",
+      "image": "https://i.ibb.co/D1Hjk1g/Rectangle-4287-2.png",
       "Card_bg_Color": "#f8714726",
       "Text_and_Button_bg_Color": "#F87147",
-      "Description": "The primary goal of a food donation campaign is to collect food donations and distribute them to people who are experiencing hunger or food insecurity.",
+      "Description": "The primary goal of a food donation campaign is to collect food donations and distribute them to people who are experiencing hunger or food insecurity.Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential",
       "Price": "$149.99"
     }
   ]
