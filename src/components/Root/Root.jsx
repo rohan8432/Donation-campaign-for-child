@@ -4,7 +4,7 @@ import Header from "../Header/Header";
 
 const Root = () => {
     return (
-        <div className="mx-16 py-6">
+        <div className="lg:mx-16 py-6">
             <Header></Header>
             <Outlet></Outlet>
         </div>
