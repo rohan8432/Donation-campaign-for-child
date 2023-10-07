@@ -6,7 +6,7 @@ const Header = () => {
         <nav>
             <div className="flex justify-between items-center">
                 <div>
-                    <img src="/Resources/Logo.png" alt="" />
+                    <img src="./Resources/Logo.png" alt="" />
                 </div>
                 <div className="flex gap-7">
                     <NavLink to="/"
