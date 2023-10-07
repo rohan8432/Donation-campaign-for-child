@@ -1,13 +1,15 @@
 import swal from "sweetalert";
 
 
+
 const DonationCard = ({donation}) => {
     const {ID,Title, image, Description, Price} = donation;
 
     const handleDonation = ()=>{
-        console.log(donation);
+        
 
         const addedItem = [];
+        console.log(addedItem);
 
         const getDonatioData = JSON.parse(localStorage.getItem('donate',));
 
@@ -60,6 +62,7 @@ const DonationCard = ({donation}) => {
                 <h3 className="text-4xl font-bold">{Title}</h3>
                 <p className="my-3">{Description}</p>
             </div>
+            
         </div>
     );
 };
