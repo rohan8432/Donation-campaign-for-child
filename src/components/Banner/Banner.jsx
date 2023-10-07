@@ -4,7 +4,7 @@ const Banner = () => {
     return (
         <div className="relative py-4">
             <div className="relative">
-                <img src="/Resources/back.jpg" alt="" />
+                <img src="./Resources/back.jpg" alt="" />
                 <div className="absolute top-0 left-0 w-full h-full bg-black opacity-50"></div>
             </div>
             <h2 className="text-white text-5xl font-bold absolute bottom-72 left-72">I Grow by helping people in need</h2>
