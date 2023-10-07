@@ -55,7 +55,7 @@ const Statistics = () => {
                     <Cell key={`cell-${index}`} fill={FillColor[index % FillColor.length]} />
                   ))}
                 </Pie>
-                <Legend />
+               
               </PieChart>
             </ResponsiveContainer>
           </div>
